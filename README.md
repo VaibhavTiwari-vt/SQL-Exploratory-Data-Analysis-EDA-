@@ -159,8 +159,3 @@ Final-year student at **Punjab Engineering College**
 
 I am passionate about data analytics and business intelligence, with a strong interest in using SQL and data-driven approaches to solve real-world business problems. This project reflects my hands-on experience with analytical SQL, data warehousing concepts, and translating data into actionable insights.
 
-
-
-
-
-## 📁 Repository Structure (Suggested)
